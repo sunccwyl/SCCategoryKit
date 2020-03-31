@@ -1,0 +1,27 @@
+{
+  "name": "SCCategoryKit",
+  "version": "1",
+  "summary": "类目Kit第一版本",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sunccwyl/SCCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sunccwyl": "1831551897@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/sunccwyl/SCCategoryKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SCCategoryKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
+}

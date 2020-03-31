@@ -1,0 +1,6 @@
+framework module SCCategoryKit {
+  umbrella header "SCCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
